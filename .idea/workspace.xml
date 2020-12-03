@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f9fabc1-d2cb-4827-9f66-1bec7a55703a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../IT WORKS/DOM 3/.idea/DOM 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT WORKS/MD/.idea/MD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT WORKS/dom/.idea/dom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT WORKS/hard-js/.idea/hard-js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT WORKS/js homework/.idea/js homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT WORKS/new-lesson-js/.idea/new-lesson-js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT WORKS/packages lesson/.idea/packages lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT WORKS/spirit/.idea/spirit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT WORKS/text-editor/.idea/text-editor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT WORKS/tim homework/.idea/tim homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IT WORKS/to do list/.idea/to do list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collories/.idea/callories.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collories/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collories/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collories/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collories/src/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collories/src/components/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collories/src/components/calories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collories/src/components/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep_projects/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep_projects/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep_projects/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../deep_projects/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/.idea/react-first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-first/frontend/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-homework/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-homework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-homework/.idea/todo-homework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-homework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-homework/src/components/title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/.idea/todo-list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/public/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/components/TodoInput.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/components/TodoItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/components/TodoList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/redux/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/redux/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/redux/states.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-list/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/todo-new-one.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todoListItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todoListItemStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todoTitle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todolist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tasks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather/.idea/weather.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather/src/components/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather/src/components/weather.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather/src/components/weatherVie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather/src/components/weatherVie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../team-project" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l8PoEPEIgRTeRVSXCnWTtjTQYd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f9fabc1-d2cb-4827-9f66-1bec7a55703a" name="Default Changelist" comment="" />
+      <created>1606975921491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606975921491</updated>
+      <workItem from="1606975926437" duration="10041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
